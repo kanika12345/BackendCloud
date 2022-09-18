@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'TweetAppss'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_77A2729206A94E5D9C2EE2374329ADA3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_619D529CE020451F8CB8B2D3501B4768 }}
           package: '*.jar'
